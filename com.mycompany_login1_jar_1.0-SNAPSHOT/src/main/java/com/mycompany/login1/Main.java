@@ -15,7 +15,8 @@ public class Main {
 //Updated from Part 2 to add:
 // Menu option 4: Stored Messages
 public static void main(String[] args) {
-   int x =0;
+   
+   int y =13;
 //Create a scanner object
 Scanner input = new Scanner(System.in);
 Login1  auth  = new Login1();
