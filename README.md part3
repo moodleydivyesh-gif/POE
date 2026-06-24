@@ -1,3 +1,6 @@
+# POE-part3
+Part1,2,3
+Please mark the newest submission to github
 # Login1.java â€” Full Explanation
 
 This README explains exactly what `Login1.java` does, field by field and method by method, including the reasoning behind each validation rule and how the class is used by the rest of the QuickChat application.
